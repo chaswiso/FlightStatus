@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "FlightStatus",
+			"path": "../../../../projects/nano-esp32-project/FlightStatus"
+		}
+	],
+	"settings": {}
+}
